@@ -210,7 +210,9 @@
         background: linear-gradient(to bottom, #000000, #6cb3de, #e5ff64,black);
         height: 230px;
     }
-
+    .body{
+        margin: 0px;
+    }
     .down h2{
         color: white;
         text-align: center;
